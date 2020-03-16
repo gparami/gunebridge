@@ -6,5 +6,108 @@
         "pin": "031-45-154"
     },
     "accessories": [],
-    "platforms": []
+    "platforms": [
+        {
+            "platform": "MagicHome-Platform",
+            "debug": true,
+            "lights": [
+                {
+                    "name": "Living Room Pot Light R1",
+                    "ip": "C44F33A1851B",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Living Room Pot Light R2",
+                    "ip": "C44F33A03EAF",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Living Room Pot Light L1",
+                    "ip": "C44F33A026D4",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Living Room Pot Light L2",
+                    "ip": "C44F339FC6CC",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Dinning Room Pot Light R1",
+                    "ip": "C44F339F2CA8",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Dinning Room Pot Light R2",
+                    "ip": "C44F33A0262D",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Dinning Room Pot Light L1",
+                    "ip": "C44F339FC77A",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Dinning Room Pot Light L2",
+                    "ip": "C44F33A0259D",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Living Room Hallway Light 1",
+                    "ip": "C44F33A0272F",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Living Room Hallway Light 2",
+                    "ip": "C44F33A03FE4",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Kitchen Light 1",
+                    "ip": "DC4F2288BDCD",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Kitchen Light 2",
+                    "ip": "DC4F228935E4",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Kitchen Light 3",
+                    "ip": "DC4F22D7C0F5",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Staircase Light 1",
+                    "ip": "DC4F22D08142",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Staircase Light 2",
+                    "ip": "DC4F22D08659",
+                    "setup": "RGBW",
+                    "purewhite": true
+                },
+                {
+                    "name": "Staircase Light 3",
+                    "ip": "DC4F22D08982",
+                    "setup": "RGBW",
+                    "purewhite": true
+                }
+            ]
+        }
+    ]
 }
