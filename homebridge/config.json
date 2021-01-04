@@ -108,6 +108,11 @@
                     "purewhite": true
                 }
             ]
+        },
+        {
+            "name": "Config",
+            "port": 8080,
+            "platform": "config"
         }
     ]
 }
