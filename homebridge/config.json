@@ -113,6 +113,24 @@
             "name": "Config",
             "port": 8080,
             "platform": "config"
+        },
+        {
+            "units": "si",
+            "interval": 1,
+            "stations": [
+                {
+                    "nameNow": "Barrhaven",
+                    "service": "openweathermap",
+                    "key": "1e608f9d9421f4ca8df5815558a373d9",
+                    "locationCity": "Barrhaven, CA",
+                    "language": "en",
+                    "compatibility": "home",
+                    "conditionCategory": "simple",
+                    "now": true,
+                    "extraHumidity": false
+                }
+            ],
+            "platform": "WeatherPlus"
         }
     ]
 }
